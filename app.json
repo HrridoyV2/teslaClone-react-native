@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is my own tesla,",
+    "githubUrl": "https://github.com/HrridoyV2/teslaClone-react-native"
   }
 }
